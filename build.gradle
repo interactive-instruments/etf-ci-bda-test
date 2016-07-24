@@ -25,3 +25,5 @@ apply from: 'build/gradle/ii-bda.gradle'
 ///////////////////////////////////////////////////////////////////////////////////////
 
 group = 'de.interactive_instruments.etf.tmp'
+
+println "Version: ${version}"
