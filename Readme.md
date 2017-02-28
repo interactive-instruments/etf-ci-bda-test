@@ -4,4 +4,5 @@
 [![Latest version](http://img.shields.io/badge/latest%20version-1.0.8.1-blue.svg)](http://services.interactive-instruments.de/etfdev-af/release/de/interactive_instruments/etf/tmp/etf-ci-bda-test/1.0.8.1/etf-ci-bda-test-1.0.8.1.jar)
 [![Build Status](https://services.interactive-instruments.de/etfdev-ci/buildStatus/icon?job=etf-ci-bda-test)](https://services.interactive-instruments.de/etfdev-ci/job/etf-ci-bda-test/)
 
+
 Test repo
