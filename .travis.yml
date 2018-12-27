@@ -6,6 +6,10 @@ jdk:
 os:
   - linux
 
+branches:
+  except:
+    - master
+
 cache:
   directories:
   - $HOME/.gradle
